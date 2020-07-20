@@ -9,3 +9,5 @@ Esta incluso:
 **SISBOL(Sistema de Boletins Internos) 
 
 **Site Interno e externo do Batalhão -> http://www.58bimtz.eb.mil.br/
+
+**Script do servidor auxiliar
